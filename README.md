@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://clarksville.computer/wp-content/uploads/2019/11/ransomware-social-980x601.png" width="50%" style="margin: auto;" alt="Malware Attack">
+</div>
+
 # Project Name
 
 🔐 Ransomware using python
@@ -99,6 +103,8 @@ To get started with this project, follow these steps to clone the repository to 
     ```
 
 5. **Now you can see a list of files including encrypt.py and decrypt.py using dir in windows and ls in linux!**
+   
+    <img width="277" alt="image" src="https://github.com/thejas-dev/ransomware-python/assets/107091644/fd659190-bd0c-41af-9567-8a327461a53e">
 
     Run the encrypt.py which will encrypt the text files in the project directory and save the key in the_key.key file.
    ⚠️ Once you encrypt the files you need a key and a secret message to decrypt it, the secret message is ```its_a_secret```
